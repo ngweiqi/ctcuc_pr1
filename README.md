@@ -4,7 +4,7 @@ First CTCUC pull requests practice
 NAME | GITHUB ID | PROJECT ID
 Lim Ah Seng | limahseng | https://github.com/limahseng/happeningproject1 
 
-Ng Wei Qi ngweiqi
+Ng Wei Qi | ngweiqi | https://github.com/ngweiqi/amazingproject1
 
 Noor Shahid Bin Noorahman shahidsensei
 
